@@ -1,0 +1,18 @@
+{
+  "name": "tarotcards-backend",
+  "version": "1.0.0",
+  "description": "API to get tarot cards info",
+  "main": "src/index.js",
+  "author": "Lia Shiroma",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
